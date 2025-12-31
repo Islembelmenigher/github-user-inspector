@@ -33,10 +33,10 @@ Built with **HTML, CSS, JavaScript (Axios)** for the frontend and **Node.js + Ex
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/github-profile-viewer.git
+git clone https://github.com/yourusername/github-user-inspector.git
 Install backend dependencies
 
-cd github-profile-viewer
+cd github-user-inspector
 npm install
 Start the backend server
 
